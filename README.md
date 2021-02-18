@@ -1,5 +1,8 @@
 # Java and Kubernetes
 
+Aula na Digital Innovation One ministrada por Sandro Giacomozzi.
+https://github.com/sandrogiacom
+
 Show how you can move your spring boot application to docker and kubernetes.
 This project is a demo for the series of posts on dev.to
 https://dev.to/sandrogiacom/kubernetes-for-java-developers-setup-41nk
